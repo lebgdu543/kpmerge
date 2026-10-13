@@ -1,0 +1,5 @@
+/target
+.obsidian/
+.trash/
+merged.kdbx
+*.kdbx
